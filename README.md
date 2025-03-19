@@ -1,7 +1,7 @@
 # jenkins-scm
  # The Project is freestyle project 
  
- ##  Project  Objective 
+ ##  This is a Project  Objective 
  
  The obective of this freestyle project is to automate tasks such as building , testing ,and deploying applications with minimal setup.
  
