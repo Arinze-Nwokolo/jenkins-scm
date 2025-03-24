@@ -1,5 +1,5 @@
 # jenkins-scm
- # This is  Project is freestyle project 
+ # This is a  Project is freestyle project 
  
  ##  This is a Project  Objective 
  
